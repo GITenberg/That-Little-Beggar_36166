@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25892'
     url: http://www.gutenberg.org/2009/agents/25892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36166#That-Little-Beggar
 gutenberg_issued: '2011-05-19'
 gutenberg_type: Text
 identifiers:
